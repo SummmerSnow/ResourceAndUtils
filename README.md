@@ -19,3 +19,12 @@
 git add fileName
 git commit -m "description"
 git push origin master
+
+
+***—————————————————————————————————————————————————***
+config pycharm enviroment:
+# -*- coding: utf-8 -*-
+# @Time    : ${DATE} ${TIME}
+# @Author  : xiaoxue liu
+# @File    : ${NAME}.py
+# @Descript: 
