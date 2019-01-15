@@ -46,4 +46,5 @@ cp -r directory_name target-directory
 
 
 ## cut 命令
+cut 默认以制表符为分隔符
 https://www.cnblogs.com/Spiro-K/p/6361646.html
