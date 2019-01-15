@@ -1,3 +1,4 @@
+[TOC!]
 ## Linux 文件命令大全
 
 ### =============== 统计命令 ===============
@@ -41,3 +42,8 @@ cp fileName target-directory
 cp -r directory_name target-directory
 -r 表示递归的操作，一般用于文件夹上的操作；
 不清楚每个参数的含义的时候，可以使用  man command 查看命令的具体使用方法。
+
+
+
+## cut 命令
+https://www.cnblogs.com/Spiro-K/p/6361646.html
