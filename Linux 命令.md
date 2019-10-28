@@ -1,4 +1,4 @@
-[TOC!]
+
 ## Linux 文件命令大全
 
 ### =============== 统计命令 ===============
@@ -48,3 +48,13 @@ cp -r directory_name target-directory
 ## cut 命令
 cut 默认以制表符为分隔符
 https://www.cnblogs.com/Spiro-K/p/6361646.html
+
+
+
+### =============== 统计磁盘信息 ===============
+显示当前文件件下文件大小：
+du -sh *
+du -s *
+
+显示当前文件下文件大小，并根据文件大小进行排序：
+du -s * | sort -nr
